@@ -13,3 +13,14 @@ This project is a simple command-line based chatbot that predicts the nutritiona
 - **Interactive Chatbot**:
   - Simple command-line interface where users can enter the name of a fruit or vegetable to get predictions and information.
   - Type 'exit' to end the chat.
+
+##Screenshots
+
+-**Message requesting Input**
+ -![Nutrition Message](images/nurti-message.png)
+
+- **User Input**
+  - ![User Input](images/nutri_input.png)
+  
+- **Output**
+  - ![Output](images/nutri_output.png)
