@@ -17,7 +17,7 @@ This project is a simple command-line based chatbot that predicts the nutritiona
 ##Screenshots
 
 - **Nutrition Message**
-  - ![Nutrition Message](nutri-message.png)
+  - ![Nutrition Message](nutri_message.png)
 
 - **User Input**
   - ![User Input](images/nutri_input.png)
